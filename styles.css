@@ -1,0 +1,51 @@
+body {
+    background-color: #001524;
+    color: white;
+    font-family: montserrat;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: #081118;
+    padding: 10px;
+}
+
+#profile {
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid aliceblue;
+}
+
+h1 {
+    margin-top: 3%;
+    font-size: 50pt;
+}
+
+p {
+    margin-top: 4%;
+}
+
+a {
+    padding: 25px;
+    margin-inline: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+#github {
+    background-color:#24292e;
+}
+
+#download {
+    background-color: #15616D;
+}
+
+#privacy {
+    background-color: #78290F;
+}
+
+.buttons {
+    margin-top: 4%;
+}
